@@ -1,1 +1,3 @@
 It's my semester project for OOP. Honestly, it's one of my favorite games, and I loved working on it. It uses all OOP concepts like abstraction and polymorphism for monsters. There are three levels of monsters, and the best part about this game is the addons. It was so fun to code the addons; you can be creative here, like adding themes, changing the ship color when only one life remains, a bonus shield addon, and so much more!
+
+There is a 'sript.py' file. It has the commands to run this game, either run this file or take the commands from it and run them. Make sure your device has all required libraries.
